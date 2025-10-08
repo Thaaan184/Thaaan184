@@ -1,7 +1,6 @@
 <!-- Load Devicons -->
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### 🌐 Connect with me:
 <p align="left">
 <a href="https://github.com/Thaaan184" target="blank"><i class="devicon-github-original" style="font-size: 40px;"></i></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><i class="devicon-linkedin-plain colored" style="font-size: 40px;"></i></a>
