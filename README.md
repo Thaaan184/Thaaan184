@@ -16,7 +16,7 @@
 
 <!-- GIF Atas -->
 <p align="center">
-	<img src="https://media.tenor.com/GIhk3irMxMAAAAC/anime-scenery.gif" alt="Header GIF" width="100%" style="max-width:700px;border-radius:12px;">
+	<img src="https://github.com/Thaaan184/Thaaan184/blob/main/gif/anime-tyan.gif?raw=true" alt="Header GIF" width="100%" style="max-width:700px;border-radius:12px;">
 </p>
 
 <!-- Introduction -->
@@ -50,7 +50,7 @@ I work in a structured and result-oriented manner, maintaining quality and conti
 
 <!-- GIF Bawah -->
 <p align="center">
-	<img src="https://media.tenor.com/blqhHAAAAC/naruto-anime.gif" alt="Thank You GIF" width="100%" style="max-width:400px;border-radius:12px;">
+	<img src="https://github.com/Thaaan184/Thaaan184/blob/main/gif/bye-finger-gun.gif?raw=true" alt="Thank You GIF" width="100%" style="max-width:400px;border-radius:12px;">
 </p>
 
 <h3 align="center">Thanks for visiting! ✨</h3>
