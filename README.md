@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Typograssy Title -->
-<p>
-	<img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey%2C%20I’m%20Patan!%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&bg=none&frame=none">
-</p>
-
 <!-- Social Badges -->
 <p>
 	<img src="https://komarev.com/ghpvc/?username=Thaaan184&color=1C8C8C&style=for-the-badge" alt="Profile Views">
@@ -20,9 +15,9 @@
 </p>
 
 <!-- GIF Atas -->
-<div style="width:100%;height:0;padding-bottom:70%;position:relative;">
-	<img src="https://media.tenor.com/GIhk3irMxM.gif" alt="Header GIF" style="width:100%;border-radius:12px;">
-</div>
+<p align="center">
+	<img src="https://media.tenor.com/GIhk3irMxMAAAAC/anime-scenery.gif" alt="Header GIF" width="100%" style="max-width:700px;border-radius:12px;">
+</p>
 
 <!-- Introduction -->
 <h2 align="center">Hey there! <img height="35" alt="wave" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
@@ -55,7 +50,7 @@ I work in a structured and result-oriented manner, maintaining quality and conti
 
 <!-- GIF Bawah -->
 <p align="center">
-	<img src="https://media.tenor.com/blqhH.gif" alt="Thank You GIF" style="width:100%;max-width:500px;border-radius:12px;">
+	<img src="https://media.tenor.com/blqhHAAAAC/naruto-anime.gif" alt="Thank You GIF" width="100%" style="max-width:400px;border-radius:12px;">
 </p>
 
 <h3 align="center">Thanks for visiting! ✨</h3>
